@@ -16,6 +16,5 @@
 ## 中国神话整理
 
 * [盘古开天](zhong-guo-shen-hua-zheng-li/pan-gu-kai-tian.md)
-* [关于天地](zhong-guo-shen-hua-zheng-li/untitled/README.md)
-  * [四象](zhong-guo-shen-hua-zheng-li/untitled/four-symbols.md)
+* [四象](zhong-guo-shen-hua-zheng-li/four-symbols.md)
 
