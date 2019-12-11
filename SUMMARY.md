@@ -4,6 +4,11 @@
 
 ## 大神的诞生 <a id="yuan-gu-da-shen"></a>
 
+* [孟章](meng-zhang.md)
+* [陵光](ling-guang.md)
+* [监兵](jian-bing.md)
+* [执明](zhi-ming.md)
+
 ## 英雄的居所 <a id="ge-lu-ying-xiong-de-ju-suo"></a>
 
 * [Untitled](ge-lu-ying-xiong-de-ju-suo/untitled.md)
