@@ -18,4 +18,5 @@
 * [Myths and Legends of China](zhong-guo-shen-hua-zheng-li/untitled.md)
 * [盘古开天](zhong-guo-shen-hua-zheng-li/pan-gu-kai-tian.md)
 * [四象](zhong-guo-shen-hua-zheng-li/four-symbols.md)
+* [为什么中国神话不如日本和西方神话那样成为一个体系？](zhong-guo-shen-hua-zheng-li/wei-shen-me-zhong-guo-shen-hua-bu-ru-ri-ben-he-xi-fang-shen-hua-na-yang-cheng-wei-yi-ge-ti-xi.md)
 
